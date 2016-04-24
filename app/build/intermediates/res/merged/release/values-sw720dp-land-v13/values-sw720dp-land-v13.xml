@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="custom_colors">
+		<item>#F44336</item>
+		<item>#E91E63</item>
+		<item>#9C27B0</item>
+		<item>#673AB7</item>
+		<item>#3F51B5</item>
+		<item>#2196F3</item>
+	</array>
+    <string-array name="preference_values">
+		<item>مكتبة جبران</item>
+		<item>مكتبة (نزار قباني و محموود درويش )</item>
+	</string-array>
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+    <string name="about">عن التطبيق</string>
+    <string name="aboutpage">
+        3rd Party Libraries :\n
+        https://www.github.com/viavansi/mupdf-android \n
+        https://github.com/afollestad/material-dialogs \n
+        https://github.com/pedant/sweet-alert-dialog \n
+
+        Code Snippets from \n
+        https://github.com/codechimp-org/AppRater
+    </string>
+    <string name="action_OtherLibraries">مكتبات أخرى</string>
+    <string name="action_openDB">تحميل الكتب</string>
+    <string name="app_name">مصطفى محمود</string>
+    <string name="app_name_inside">مكتبة الدكتور مصطفى محمود</string>
+    <string name="done">انتهى التحميل</string>
+    <string name="downloading">جاري تحميل الملف</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="share">مشاركة البرنامج مع صديق</string>
+    <string name="wait">الرجاء الإنتظار</string>
+</resources>

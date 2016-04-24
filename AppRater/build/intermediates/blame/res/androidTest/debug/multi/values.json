@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\AppRater\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\AppRater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 39,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\AppRater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 39,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 47,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\AppRater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 47,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 41,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\AppRater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 41,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 127,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\AppRater\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 127,
+                        "endOffset": 357
+                    }
+                }
+            }
+        ]
+    }
+]

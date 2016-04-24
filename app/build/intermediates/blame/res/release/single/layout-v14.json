@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\app\\build\\intermediates\\res\\merged\\release\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\app\\build\\intermediates\\exploded-aar\\com.afollestad\\core\\unspecified\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\app\\build\\intermediates\\res\\merged\\release\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\app\\build\\intermediates\\exploded-aar\\com.afollestad\\core\\unspecified\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\app\\build\\intermediates\\res\\merged\\release\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\app\\build\\intermediates\\exploded-aar\\com.afollestad\\core\\unspecified\\res\\layout-v14\\md_stub_progress.xml"
+    }
+]

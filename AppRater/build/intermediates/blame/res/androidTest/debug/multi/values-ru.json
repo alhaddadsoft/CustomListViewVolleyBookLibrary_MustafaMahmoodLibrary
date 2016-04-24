@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\AppRater\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ru\\values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\AppRater\\build\\intermediates\\bundles\\debug\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 49,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\AppRater\\build\\intermediates\\bundles\\debug\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 49,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 50,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\AppRater\\build\\intermediates\\bundles\\debug\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 50,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 47,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\AppRater\\build\\intermediates\\bundles\\debug\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 47,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 121,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "C:\\Users\\ammar\\AndroidStudioProjects\\CustomListViewVolleyBookLibrary\\AppRater\\build\\intermediates\\bundles\\debug\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 121,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+﻿{
+"data": [
+{
+   "title": "مكتبة جبران خليل جبران"
+        "image": "http://mostafamahmoud.net/wp-content/uploads/2015/09/431794_42795b9f1c9a577a8bc88e55e8827aad.jpg",
+		"pdfUrl": "playgoogle store url",
+		"SaveAs": "book1",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": "تحتوي المكتبة على الكتب التالية كذا وكذا "
+    },
+    {
+   "title": "مكتبة نزار قباني محمود درويش"
+        "image": "http://mostafamahmoud.net/wp-content/uploads/2015/09/431794_42795b9f1c9a577a8bc88e55e8827aad.jpg",
+		"pdfUrl": "playgoogle store url",
+		"SaveAs": "book1",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": "تحتوي المكتبة على الكتب التالية كذا وكذا "
+    }
+	]
+}

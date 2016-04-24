@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.3.0_5c7f5ca1efd9cb527c5ef70a836815ab8924988c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\internal_impl-23.3.0_0beb4aa557b956ff492337708efa07f83b6e51ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\com.afollestad\core\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1e3ab5d3b78e4fe9c2632fe3df9f081090788aa3">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\com.afollestad-core-unspecified_d3b53a6ce1dcc17f0a51c3021c9edd3d935156db.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.5.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\com.crashlytics.sdk.android-crashlytics-2.5.5_9cb39fd5899d7d0484ae0424ab768116106c906e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\com.pnikosis-materialish-progress-1.0_ca306665274645eaaa5ae44aa1ca4a0b74b12ff1.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\com.afollestad\commons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0ea9d85126de5e6a63a7cc82439997d047d057ba">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\com.afollestad-commons-unspecified_4509d64c9ac06e1e1d51762e201c0ec1f55ef714.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\CustomListViewVolleyBookLibrary\android mupdf master\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b11ab000f6f695803db6d97d2d8c370dc4205d45">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\CustomListViewVolleyBookLibrary-android mupdf master-unspecified_0916dbaccccb5d551c66f1da735626be43ffb51e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.3.0_757c720d9c86b70bbfb6d71af7e6b2cc18dea6ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\me.zhanghai.android.materialprogressbar-library-1.1.5_085bd9e11592ae76f96912a629ba6a05184d27f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.8\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\com.crashlytics.sdk.android-crashlytics-core-2.3.8_2af957eb702b38ae10f28741bbff4589085a8218.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\butterknife-6.1.0_50cb14062ec3a3dbdfcf761389b7a73087106fe8.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\CustomListViewVolleyBookLibrary\librarysearch\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cda638f7aab0cf3a572e77fd4d478283723b40d6">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\CustomListViewVolleyBookLibrary-librarysearch-unspecified_e433a06f8543bbb4b2dfb5248b6ccb07957c1a3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\CustomListViewVolleyBookLibrary\AppRater\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="098a085f4bf6590d872fac402a4c952c9b0b65b2">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\CustomListViewVolleyBookLibrary-AppRater-unspecified_036922cfaccfa81e1ea90052ad08bc019e3cf910.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.3.0_42123e121bd6ecbaff9e70195b965e6541490df3.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\support-annotations-23.3.0_1f76e4916628bbf1629a7df5fbaa163a372c9958.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.3.0_484cd725a31dd2663cb3e2f4665e9286b505d8f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.3.0_a6a459d74199c6e2225ffcdeacce97c74eddbea6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\cn.pedant.sweetalert\sweetDialog\1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cf293d69280d4b51043ba89996c6a5a7e5382b61">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\cn.pedant.sweetalert-sweetDialog-1.3_b630b59fb454611b7fc8746b7f5275c297546536.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.10\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\io.fabric.sdk.android-fabric-1.3.10_920829b282558c5fd66df724472985b7c31a2b2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\com.crashlytics.sdk.android-beta-1.1.4_4e88198616acd95a77301444629e450fa2673ac4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\com.crashlytics.sdk.android-answers-1.3.6_85f3a9553bdf3a31b77fc5dca2316776ea774a16.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\volley_eb68e639273c14ad1877603bc41e7fb1af0221c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddb8ff19c902eab4a3e970ed63fa6c2e2bc1e848">
+        <dex dex="C:\Users\ammar\AndroidStudioProjects\CustomListViewVolleyBookLibrary\app\build\intermediates\pre-dexed\release\uk.co.chrisjenx-calligraphy-2.0.2_00e6d49f914a8af678517229ec80be8c096d9c55.jar" />
+    </item>
+
+</items>

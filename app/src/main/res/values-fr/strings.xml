@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">مصطفى محمود</string>
+	<string name="app_name_inside">مكتبة الدكتور مصطفى محمود</string>
+
+	<string name="hello_world">Hello world!</string>
+	<string name="downloading">جاري تحميل الملف</string>
+	<string name="wait">الرجاء الإنتظار</string>
+	<string name="done">انتهى التحميل</string>
+	<string name="action_openDB">تحميل الكتب</string>
+	<string name="action_OtherLibraries">مكتبات أخرى</string>
+	<string name="about">عن التطبيق</string>
+    <string name="aboutpage">
+        3rd Party Libraries :\n
+        https://www.github.com/viavansi/mupdf-android \n
+        https://github.com/afollestad/material-dialogs \n
+        https://github.com/pedant/sweet-alert-dialog \n
+
+        Code Snippets from \n
+        https://github.com/codechimp-org/AppRater
+    </string>
+	<string name="share">مشاركة البرنامج مع صديق</string>
+
+
+</resources>

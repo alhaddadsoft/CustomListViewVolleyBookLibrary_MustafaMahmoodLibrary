@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_DownloadBook"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_openDB"/>
+
+    <item
+        android:id="@+id/action_otherlibrary"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_OtherLibraries"/>
+
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/share"/>
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/about"/>
+</menu>

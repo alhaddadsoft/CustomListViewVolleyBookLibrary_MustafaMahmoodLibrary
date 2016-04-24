@@ -1,0 +1,25 @@
+[{
+   "title": "لغز الموت",
+        "image": "http://mostafamahmoud.net/wp-content/uploads/2015/09/431794_42795b9f1c9a577a8bc88e55e8827aad-70x70.jpg",
+		"pdfUrl": "",
+		"SaveAs": "book1",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": "إنه وباء القرن الواحد والعشرين وطاعون المستقبل والمسلمون المستهدفون في كل مكان عليهم أن يضموا الأيدي ليصدوا هذا الخطر المتسلل عبر الحدود المفتوحة في كل مكان ، وعبر الهواء والفضائيات والإعلام وعبر الصحيفة والخبر والفيلم والكتاب ووسائل غسيل المخ التي تعبر الحدود وتنساح في كل بيت ، فالكلمة هي الطلقة الخفية وهي القذيفة والصاروخ وهي الجاسوس الخفي الذي يغتال القلب ويلوث الضمير بكل ألوان الفساد ، وبروتوكولات حكماء آل صهيون هي ما تفتقت عنه أذهان دهاقنة الصهاينة في إفساد شعوب العالم وحكوماته ، وقد لعنهم أنبياؤهم في التوراة كما لعنهم المسيح في الأناجيل الثلاثة كما لعنهم الله في قرآنه ."
+    },
+    {
+        "title": "District 9",
+        "image": "http://alhaddadapps.net/mustafamahmood/book2.jpeg",
+		"pdfUrl": "http://alhaddadapps.net/mustafamahmood/book2.pdf",
+		"SaveAs": "book2",
+        "rating": 8,
+        "releaseYear": 2009,
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+    },
+    {
+        "title": "Transformers: Age of Extinction",
+        "image": "http://api.androidhive.info/json/movies/3.jpg",
+        "rating": 6.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+    }]
